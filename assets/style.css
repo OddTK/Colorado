@@ -2,6 +2,7 @@ header h1 {
     text-align: center;
     color: darkgreen
 }
-nav a {
-    justify-content: center;
+.links {
+    margin-top: 20px;
+    text-align: center;
 }
