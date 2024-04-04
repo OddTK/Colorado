@@ -2,3 +2,6 @@ header h1 {
     text-align: center;
     color: darkgreen
 }
+nav a {
+    justify-content: center;
+}
