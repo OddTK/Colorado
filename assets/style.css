@@ -1,40 +1,49 @@
 body {
-    background-image: url(./images/RM-Stock.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+  background-image: url(./images/RM-Stock.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 header h1 {
-    background-color: white;
-    text-align: center;
-    color: darkgreen
+  background-color: white;
+  text-align: center;
+  color: darkgreen;
+  padding: 50px;
+  margin: -10px;
+  border-style: solid;
 }
 
 #footer {
-    margin-top: 100vh;
-    background-color: white;
-    border-style: solid;
-    text-align: center;
+  background-color: white;
+  border-style: solid;
+  text-align: center;
 }
 
 .home-links {
-    background-color: white;
-    margin: 60px 10px;
-    text-align: center;
+  background-color: white;
+  margin: 60px 10px;
+  text-align: center;
+  padding: 20px;
+  margin: -10px;
+  border-style: solid;
 }
 
 .links {
-    margin: 20px 10px;
-    text-align: center;
+  margin: 20px 10px;
+  text-align: center;
 }
 
 main h2 {
-    background-color: white;
-    text-align: center;
-    margin-top: 15%;
+  background-color: white;
+  text-align: center;
+  margin: 10% -10px;
+  padding: 50px;
+  border-style: solid;
 }
+
 main p {
-    background-color: white;
-    margin-top: 3%;
-    text-align: center;
+  background-color: white;
+  margin: 3% -10px;
+  text-align: center;
+  border-style: solid;
 }
