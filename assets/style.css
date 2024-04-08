@@ -51,7 +51,7 @@ nav ul li a:hover {
   border-radius: 5px;
 }
 
-main h2 {
+.homeMain h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 70px;
   text-shadow: 2px 2px 4px #b97373;
@@ -61,7 +61,7 @@ main h2 {
   padding: 50px 0px;
 }
 
-main p {
+.homeMain p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: white;
   width: 100%;
