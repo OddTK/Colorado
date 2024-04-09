@@ -69,3 +69,9 @@ nav ul li a:hover {
   padding: 10px 0px;
   margin-bottom: 0px;
 }
+
+.homeForm {
+  width: 100%;
+  padding-top: 20px;
+  background-color: white !important;
+}
