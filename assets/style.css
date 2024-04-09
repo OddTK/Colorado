@@ -75,3 +75,14 @@ nav ul li a:hover {
   padding-top: 20px;
   background-color: white !important;
 }
+
+.cityMain {
+  display: flex;
+}
+
+.citySec {
+  margin-left: 5%;
+}
+
+.cityImg {
+}
