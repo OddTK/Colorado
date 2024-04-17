@@ -18,6 +18,13 @@
         <li><a href="parker.html">Parker</a></li>
       </ul>
     </nav>
+    <aside class="leavingCO">
+      <img
+        src="./assets/images/LeavingCO.jpg"
+        alt="Leaving Colorful Colorado sign"
+      />
+      <figcaption>Thank you for visiting! <a href="https://www.pinterest.com/pin/367324913361829386/">(Pinterest)</a></figcaption>
+    </aside>
     <main class="summaryMain">
       <div class="tableContainer">
         <table>
@@ -66,11 +73,21 @@
           <form id="contactForm">
             <p>
               <label for="name">Full Name:</label>
-              <input type="name" name="name" id="name" />
+              <input
+                type="name"
+                name="name"
+                id="name"
+                placeholder="John Smith"
+              />
             </p>
             <p>
               <label for="email">Email Address:</label>
-              <input type="email" name="email" id="email" />
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="example@domain.com"
+              />
             </p>
             <p>
               <label for="emailConfirmation">Re-enter Email:</label>
@@ -78,13 +95,18 @@
                 type="email"
                 name="emailConfirmation"
                 id="emailConfirmation"
+                placeholder="example@domain.com"
               />
               <span id="emailError"></span>
             </p>
             <p>
-              <textarea name="comments" id="comments" cols="30" rows="10">
-Questions or concerns? Let us know..</textarea
-              >
+              <textarea
+                name="comments"
+                id="comments"
+                cols="30"
+                rows="10"
+                placeholder="Questions or concerns? Let us know.."
+              ></textarea>
             </p>
             <p><button type="submit">Submit</button></p>
           </form>
